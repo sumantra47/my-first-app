@@ -1,5 +1,5 @@
 language: generic
-#my-first-app demo
+#my-first-app
 services:
   - docker
 deploy:
